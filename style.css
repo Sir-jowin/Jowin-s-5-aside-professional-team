@@ -21,7 +21,7 @@ body{
     justify-content: center;
     background-color: #e2c1f0ab!important;
     border-radius: 2rem;
-    margin: 55px 0 0 350px;
+    margin: 55px 0 0 250px;
     padding: 0 2rem 0 2rem;
 }
 
@@ -209,6 +209,7 @@ select{
         background-color: #e2c1f0ab!important;
         border-radius: 2rem;
         padding: 0 2rem 0 2rem;
+        margin-top: 10rem;
     } 
 
     .row {
@@ -217,7 +218,7 @@ select{
         -ms-flex-wrap: wrap;
         flex-wrap: wrap;
         margin-top: -410px;
-        margin-left: -390px;
+        margin-left: -290px;
     }
    
   }
